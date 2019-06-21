@@ -1,1 +1,1 @@
-This Akash's first Git project!
+This is Akash's first Git project!
